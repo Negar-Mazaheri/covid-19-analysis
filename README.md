@@ -3,7 +3,7 @@ This project analyzes COVID-19 data from various countries, exploring relationsh
 
 ## Dataset
 
-The dataset used in this analysis contains the following attributes:
+The [dataset](https://github.com/Negar-Mazaheri/covid-19-analysis/blob/main/covid_19.csv) used in this analysis contains the following attributes:
 - country: Indexed on country
 - continent: The continent to which the country belongs
 - population: Population of the country
